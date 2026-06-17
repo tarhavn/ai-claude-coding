@@ -1,7 +1,0 @@
-npm run dev
-
-npm create vite@latest authentication-react-frontend -- --template react
-
-git branch -d simple
-git push origin --delete simple
-git fetch origin --prune
